@@ -22,3 +22,10 @@
  ![htdocs](./screen-shots/registerpage_php.png)
  ![htdocs](./screen-shots/homepage_php.png)
  ![htdocs](./screen-shots/updatepage_php.png)
+ ## 15. After all of that, app should be run smoothly.
+ 
+ ##Pages
+ ![htdocs](./screen-shots/login.png)
+ ![htdocs](./screen-shots/register.png)
+ ![htdocs](./screen-shots/homepage.png)
+ ![htdocs](./screen-shots/updatepage.png)
