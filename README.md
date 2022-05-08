@@ -1,6 +1,6 @@
-# QAUTH with PHP
+# Authentication with PHP and Flutter
 - ## A authentication website written in PHP and Flutter. MySQL database is used to manage internal data.
-# How to Setup
+# Setup
  ## 1. Download `furkan_unal_110510264.zip` file which includes all the necessary source files. 
  ## 2. Go to `C:\newxampp\htdocs` on your computer.
  ## 3. Create a new file in there and name it `phplogin`.   
