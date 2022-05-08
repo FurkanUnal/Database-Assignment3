@@ -4,7 +4,7 @@
  ## 1. Download `furkan_unal_110510264.zip` file which includes all the necessary source files. 
  ## 2. Go to `C:\newxampp\htdocs` on your computer.
  ## 3. Create a new file in there and name it, for example, `phplogin`.   
- ![htdocs](./screen_shots/Flutter_Web.png)  
+ ![htdocs](./screen-shots/Flutter_Web.png)  
  ## 4. Go to `emrephplogin` file you have just created.
  ## 5. Unzip the `emre_kilic_110510259.zip` here
  ![after unzip](./views/after_unzip.png)
